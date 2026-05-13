@@ -4,13 +4,13 @@
 - **İki Dil Desteği:** Türkçe ve İngilizce arayüz seçeneği.
 - **Detaylı Rapor:** Gecikme süreleri (Min/Ort/Max) ve saniyelik istek (RPS) verilerini sunar.
 
-## 🛠️ Kurulum
+## Kurulum
 1. Visual Studio'da yeni bir **C++ Console App** projesi açın.
 2. Yukarıdaki kodu `main.cpp` dosyasına yapıştırın.
 3. Proje özelliklerinden `Release` modunu seçin.
 4. Derleyin ve çalıştırın.
 
-## 📊 Örnek Çıktı
+## Örnek Çıktı
 ```text
 ================ ANALIZ RAPORU ================
 Hedef URL           : [https://example.com](https://example.com)
