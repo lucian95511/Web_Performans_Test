@@ -1,4 +1,4 @@
-## 🚀 Özellikler
+## Özellikler
 - **Çok Kanallı Yapı:** Aynı anda yüzlerce istek gönderebilir.
 - **Dinamik Yük:** Test sırasında yükü otomatik olarak artırır.
 - **İki Dil Desteği:** Türkçe ve İngilizce arayüz seçeneği.
